@@ -1,0 +1,13 @@
+.git
+.gitignore
+.env
+node_modules/
+test/
+__pycache__/
+*.pyc
+*.pyo
+*.log
+logs/
+.vscode/
+.idea/
+.DS_Store
